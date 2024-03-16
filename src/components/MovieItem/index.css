@@ -1,0 +1,42 @@
+.carousel-img {
+  width: 250px;
+}
+
+.popup-content {
+  background-color: #231f205e;
+  min-height: 100vh;
+  height: 100%;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-cont {
+  background-color: #ffffff;
+  width: auto;
+  height: 450px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.close-btn {
+  border: 0px;
+  background: transparent;
+  outline: none;
+  align-self: flex-end;
+  cursor: pointer;
+}
+
+.close-icon {
+  color: #231f20;
+  font-size: 25px;
+}
+
+.video-container {
+  margin-top: 15px;
+}
